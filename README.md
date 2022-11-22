@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zhiqingS
-- 👀 I’m interested in **AI**, **Deep Learning**, **BigData** and **CloudCompute**.
+- 👀 I’m interested in **AI**, **Deep Learning**, **BigData** and **CloudComputing**.
 - 🌱 I’m currently learning Deep Learning and BigData
 - 💞️ I’m looking to collaborate on **Reconmmendation of Scholar Venue**.
 - 📫 How to reach me ...
